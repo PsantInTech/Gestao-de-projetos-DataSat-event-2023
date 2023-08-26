@@ -1,2 +1,2 @@
 # Gestao-de-projetos-DataSat-event-2023
-Postagem de apresentação com utilização de case desenvolvendo um projeto de intercambio internacional por meio de tecnicas e ferramentas de gestão de projetos.
+Postagem da apresentação do case "desenvolvendo um projeto de intercâmbio internacional" por meio de técnicas e ferramentas de gestão de projetos. Juntos navegamos nas ondas da gestão de projetos através do evento DataSat Day fornecido pela Universidade Projeção em Brasília. Foi ótimo entender sobre as abordagens preditivas, ágeis e hibridas. 🚀💜💚👩🏻‍💻🧠😃🫱🏼‍🫲🏽☕
